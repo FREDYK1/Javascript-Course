@@ -8,5 +8,4 @@ let randomNumber;
 myButton.onclick = function() {
     randomNumber = Math.floor(Math.random() * max) + min;
     myLabel.textContent = randomNumber;
-
 }
