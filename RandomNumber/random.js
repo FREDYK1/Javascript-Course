@@ -1,5 +1,5 @@
 const myLabel = document.getElementById("myLabel");
-const myButton = document.getElementsById("myButton");
+const myButton = document.getElementById("myButton");
 const min = 1;
 const max = 6;
 let randomNumber;
